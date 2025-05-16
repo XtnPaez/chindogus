@@ -64,4 +64,45 @@ Filosofía : ¿Creés o Creás instrucciones?
 - “Buy it, use it, break it, fix it...” : Manifiesto de creación y acción tecnológica. Robótica, repetitiva, hipnótica.
 
 ## Chindogus a desarrollar
-- ChatDoubt : 
+
+## ChatDoubt
+
+Una IA que responde. Pero no del todo.
+
+**ChatDoubt** es el chatbot oficial del *LaboD*, el laboratorio de Chindokus Digitales. Utiliza Inteligencia y Estupidez Artificial.
+
+### ¿Qué hace?
+
+- Te contesta como cualquier asistente inteligente.
+- Pero **sospecha de sí mismo**.
+- Cierra con frases como:
+  - "Pero habría que verlo bien."
+  - "Depende de cómo lo mires, tal vez."
+  - "O quizás no era tan así."
+  - "Aunque no me jugaría la cabeza por eso."
+  - "¿Y si no fuera esa la pregunta?"
+
+### ¿Por qué?
+
+Porque en **Inteligencia Híbrida**, la duda no es una falla: es un método.  
+
+Porque **el pensamiento crítico se afila con preguntas, no con certezas.**  
+
+Porque los humanos pensamos mejor cuando una voz (interna o externa) nos dice:  > _¿Estás seguro?_
+
+### Lema
+
+> “La duda es la interfaz entre lo artificial y lo humano.”
+
+El diseño para una web con este estilo: Pensada como una consola, simple, cruda, donde se abre un chat y lo primero que dice el bot es:  
+_"Hola. Creo que puedo ayudarte, no se..."_  
+
+## Licencia
+
+Todo lo que ves acá es de todos y de nadie.  
+
+Usalo, remixalo, clonalo, compartilo.  
+
+**Licencia MIT / CC0**.
+
+
